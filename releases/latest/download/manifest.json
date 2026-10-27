@@ -1,9 +1,9 @@
 {
-  "version": "20261026-0029",
+  "version": "20261027-2146",
   "url": "https://raw.githubusercontent.com/fasolaj403/CineCenter/main/releases/latest/download/cinehax.db.gz",
-  "sha256": "7fdd76becf4a225ac465f0c7a8b7d4fba6664d64ff96ddfa6df2ccc7ba95a968",
-  "size": 23806451,
-  "db_size": 162009088,
-  "titles": 26221,
+  "sha256": "7f87f0849c8658d4882e5fd82e466417276315faea62a9799b97eab4a06f0bd8",
+  "size": 24721926,
+  "db_size": 164003840,
+  "titles": 26397,
   "min_app": 1
 }
