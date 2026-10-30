@@ -1,9 +1,9 @@
 {
-  "version": "20261029-2127",
+  "version": "20261030-2303",
   "url": "https://raw.githubusercontent.com/fasolaj403/CineCenter/main/releases/latest/download/cinecenter.db.gz",
-  "sha256": "d9ea11557ae5442532f37e964c40a4c233d813a1f89671a74b571b1a0d4a4c39",
-  "size": 24871740,
-  "db_size": 164622336,
-  "titles": 26465,
+  "sha256": "5411cddef28edb32450779d32cdd7c392aa17a3cd10fd6bdf605303e2f395278",
+  "size": 24925626,
+  "db_size": 164798464,
+  "titles": 26595,
   "min_app": 1
 }
